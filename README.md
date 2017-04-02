@@ -1,3 +1,5 @@
+Forked version by fishlinghu
+
 # Generative Models
 Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.
 
